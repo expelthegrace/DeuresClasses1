@@ -1,0 +1,6 @@
+﻿  DeuresClasses1.cpp
+c:\users\msi\desktop\master\ricard deures\deuresclasses1\deuresclasses1\deuresclasses1.cpp(44): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+  c:\users\msi\desktop\master\ricard deures\deuresclasses1\deuresclasses1\deuresclasses1.cpp(42): note: durante la compilación de la función miembro de plantilla clase de 'int Vec3<int>::distance_to(Vec3<int> &)'
+  c:\users\msi\desktop\master\ricard deures\deuresclasses1\deuresclasses1\deuresclasses1.cpp(61): note: vea la referencia a la creación de instancias de plantilla de función 'int Vec3<int>::distance_to(Vec3<int> &)' que se está compilando
+  c:\users\msi\desktop\master\ricard deures\deuresclasses1\deuresclasses1\deuresclasses1.cpp(57): note: vea la referencia a la creación de instancias de plantilla clase de 'Vec3<int>' que se está compilando
+  DeuresClasses1.vcxproj -> C:\Users\MSI\Desktop\Master\Ricard Deures\DeuresClasses1\Debug\DeuresClasses1.exe
